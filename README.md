@@ -4,7 +4,7 @@ anomaly". The code will be released once accepted.
 
 **An overview of our featured students:**
 <p align="center">
-  <img width="460"  src="https://github.com/Rubiscol/featured-students/blob/main/images/overview.png">
+  <img width="800"  src="https://github.com/Rubiscol/featured-students/blob/main/images/featured students.png">
 </p>
 
 
